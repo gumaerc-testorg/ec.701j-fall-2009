@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Related Resources
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Amy Smith Simple Designs that could Save Millions of Children Lives
 uid: c48df3ff-4d51-e7e2-6cb4-bbcbc8481f57

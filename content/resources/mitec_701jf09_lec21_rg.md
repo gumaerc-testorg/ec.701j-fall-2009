@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding The Role of the International
   Financial Institutions in Development .
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-701j-d-lab-i-development-fall-2009/fde3a5592f5856030cd89263f0d5d0bf_MITEC_701JF09_lec21_rg.pdf
+file: /media/courses/ec-701j-d-lab-i-development-fall-2009/fde3a5592f5856030cd89263f0d5d0bf_MITEC_701JF09_lec21_rg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Course Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 21 slides: The Role of the International Financial Institutions in
   Development'

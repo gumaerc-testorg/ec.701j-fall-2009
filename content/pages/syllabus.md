@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 439b879d-287a-14b2-fc46-cc24d04292ab
 ---
@@ -136,16 +138,16 @@ F# = Evening film screening
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 SES #
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 CLASS TOPICS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 LABS AND ACTIVITIES
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 KEY DATES
 {{< thclose >}}
 
