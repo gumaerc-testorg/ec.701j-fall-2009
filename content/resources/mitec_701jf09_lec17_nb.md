@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Lecture 17: Water Quality I'
 uid: 07685721-3f04-34b1-a0eb-23cf4e42fe21

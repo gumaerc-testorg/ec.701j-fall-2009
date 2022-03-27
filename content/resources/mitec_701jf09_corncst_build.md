@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: a2749512-298f-1014-fdda-cc33cad4ec0d
 resourcetype: Document
 title: Cast Corn Sheller Build-It
 uid: d0b041ec-9af1-cf0a-4b86-d498f4af9098

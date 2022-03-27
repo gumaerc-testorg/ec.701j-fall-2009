@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4be700a9-9447-0110-2347-f4cd1fdc5880
 resourcetype: Document
 title: 'Homework 10: Sample trip proposal'
 uid: d84f0898-bfb7-330e-1ea7-b20c0c29de47

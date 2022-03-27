@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Lecture 15: Energy: Wind and Water'
 uid: 32821893-6680-7690-b0c9-2369a2dabc78

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Lecture #16: Modeling Energy Systems'
 uid: f9062d68-5d0a-d657-a834-7cc727fe12e9

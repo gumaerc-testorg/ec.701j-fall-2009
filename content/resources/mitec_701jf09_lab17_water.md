@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Other
 title: MITEC_701JF09_lab17_water.xls
 uid: 5c37ce87-1954-f5e7-aee0-3d9e463a88b9

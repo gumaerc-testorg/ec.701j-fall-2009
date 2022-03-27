@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4be700a9-9447-0110-2347-f4cd1fdc5880
 resourcetype: Document
 title: 'Homework 9 description: Practical photovoltaics design'
 uid: 34e26bb5-2efc-050d-fbc5-69ff8944fc36

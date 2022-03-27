@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1fa3c17d-01e7-3dd2-1f9b-61e1bafe78fe
 resourcetype: Document
 title: 'Project team presentation: Ecuador'
 uid: 685b9cc4-395e-2021-e52c-359efc03ce37

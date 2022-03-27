@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: a2749512-298f-1014-fdda-cc33cad4ec0d
 resourcetype: Document
 title: Corn Sheller Background Notes
 uid: 02951d32-7e7c-a7b5-935d-a1f471424608

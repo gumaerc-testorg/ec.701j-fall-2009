@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c2765c9d-b1b0-3d75-c630-7ad2f38ee68d
 resourcetype: Document
 title: D-Lab Travel Tips
 uid: 00d08bf4-4e19-0528-1b36-8f71295c70d6

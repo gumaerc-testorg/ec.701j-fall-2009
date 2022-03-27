@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Class 25 notes: Human Rights & Development Planning'
 uid: 3c617d5a-ad9c-1972-82f4-6b2407953eb3

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Lecture 5 slides: Participatory development and co-creation'
 uid: 9339b0a5-b39a-a7a7-759b-e043cc097f7b

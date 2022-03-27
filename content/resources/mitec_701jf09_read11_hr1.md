@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c2765c9d-b1b0-3d75-c630-7ad2f38ee68d
 resourcetype: Document
 title: 'Session 11 reading: "Planting the Rights Seed: A human rights perspective
   on agricultural trade and the WTO."'

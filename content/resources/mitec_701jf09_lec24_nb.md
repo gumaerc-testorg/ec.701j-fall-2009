@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Lecture #24: Micro-Enterprise Case Study: Grameen Phone'
 uid: a80e7f49-5a4b-ff54-0863-24848c4f8ebb

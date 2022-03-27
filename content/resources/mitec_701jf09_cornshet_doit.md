@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: a2749512-298f-1014-fdda-cc33cad4ec0d
 resourcetype: Document
 title: Sheet Metal Corn Sheller Do-It
 uid: e4fbbfbb-9958-14c1-f0b9-63a7f4caa38c

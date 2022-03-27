@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Class 18 notes: Water Issues in the Developing World'
 uid: 4ee8ad95-f52c-0d4b-f5d9-923e525c6144

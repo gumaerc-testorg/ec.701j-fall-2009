@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Lecture 3 slides: History of Development 1950-1970 - Colonial Legacy'
 uid: ecf2d296-20f6-d57d-e094-6f9a71536b05

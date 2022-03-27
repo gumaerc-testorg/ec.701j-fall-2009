@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c2765c9d-b1b0-3d75-c630-7ad2f38ee68d
 resourcetype: Document
 title: 'Session 9 reading: "D-Lab Technology Brief: Low-Cost Drip Irrigation."'
 uid: 1a3bfd25-5b05-c71e-c279-b2513786a4e8

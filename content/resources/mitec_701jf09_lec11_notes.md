@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Class 11 notes: Agricultural Focus Groups'
 uid: 5bda39b6-777b-a55b-1bb6-ba1e9cfbd2ce

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Class 34 notes: Market Approaches to Development'
 uid: 8c7bfd37-db1e-aed8-5898-6bfa28ffe38f

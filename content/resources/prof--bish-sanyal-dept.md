@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Prof. Bish Sanyal - Dept. of Urban Studies and Planning
 uid: 1bad134c-7320-e4fa-219d-2f56dde9da8b
 video_files:

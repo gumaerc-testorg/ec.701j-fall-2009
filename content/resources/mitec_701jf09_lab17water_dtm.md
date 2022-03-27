@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: Low-Cost Water Testing Apparatus, from 2004 MIT Design that Matters
 uid: a9afd323-3e33-61f5-42e5-34d250e35b43

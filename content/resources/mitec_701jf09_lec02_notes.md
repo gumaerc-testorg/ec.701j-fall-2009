@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Class 2 notes: Stakeholder Analysis & Participation'
 uid: 5c07c84b-fe76-0c17-8817-8a78208efc89

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1fa3c17d-01e7-3dd2-1f9b-61e1bafe78fe
 resourcetype: Document
 title: 'Project team presentation: China'
 uid: e3142125-ec92-4a86-d356-177cc63d4170

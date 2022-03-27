@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4be700a9-9447-0110-2347-f4cd1fdc5880
 resourcetype: Document
 title: 'Homework 10: Trip project proposal form'
 uid: e739fe01-02d1-6d6e-cf4e-9159d10e79cf

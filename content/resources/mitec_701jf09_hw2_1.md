@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4be700a9-9447-0110-2347-f4cd1fdc5880
 resourcetype: Document
 title: "Homework 2: D-Lab Case Study, \u2018Fuel from the Fields: A Case Study of\
   \ Sugarcane Charcoal Technology in Petite Anse, Haiti.\u2019"

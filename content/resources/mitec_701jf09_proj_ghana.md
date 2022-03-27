@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1fa3c17d-01e7-3dd2-1f9b-61e1bafe78fe
 resourcetype: Document
 title: 'Project team presentation: Ghana'
 uid: aadfd2a3-01d8-5958-bd35-528c04a52a03

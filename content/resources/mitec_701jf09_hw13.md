@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4be700a9-9447-0110-2347-f4cd1fdc5880
 resourcetype: Document
 title: 'Homework 13 description: Sector paper assignment'
 uid: ed6d46f0-8cca-66b4-31cf-5182bdfe5c49
