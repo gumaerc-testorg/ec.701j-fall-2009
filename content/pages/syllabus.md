@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, goals, required text and readings, grading, and the schedule of
+  class topics, labs, activities, and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 439b879d-287a-14b2-fc46-cc24d04292ab
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

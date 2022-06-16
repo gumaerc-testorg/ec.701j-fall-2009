@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section presents the course lecture notes (selected slides, notebooks,
+  and detailed notes), along with documentation for in-class labs and activities and
+  supporting materials.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Course Notes
 uid: bfc4142b-703b-6e39-38b0-36308da800ae
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents lecture materials in several forms:
@@ -45,17 +50,17 @@ SLIDES & SUPPORTING MATERIAL
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec01_nb))
+({{% resource_link bdf47ae5-82f3-3c93-0c63-8a58cc1264b4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec01_notes))
+({{% resource_link 63c18a59-596b-857c-8c36-48a2a5730cd5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Slides ([PDF - 4.7MB]({{< baseurl >}}/resources/mitec_701jf09_lec01))
+Slides ({{% resource_link 42e4332e-727d-8b71-1de1-3cf8eff712f0 "PDF - 4.7MB" %}})
 
-World Fact Quiz teaching note ([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec1worldfact))
+World Fact Quiz teaching note ({{% resource_link a26a4c7a-8693-7ba9-2f6c-ba8f3bc2ede1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -77,17 +82,17 @@ Role play activity: wheelchairs
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec02_nb))
+({{% resource_link d9b84500-77ed-2ae4-71c0-66b6998f703d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec02_notes))
+({{% resource_link 5c07c84b-fe76-0c17-8817-8a78208efc89 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Slides ([PDF - 2.1MB]({{< baseurl >}}/resources/mitec_701jf09_lec02))
+Slides ({{% resource_link 66ddec95-3669-b82e-7be6-de608d7751c6 "PDF - 2.1MB" %}})
 
-Wheelchair role play: teaching note and instructions ([PDF]({{< baseurl >}}/resources/mitec_701jf09_act02chair_rp))
+Wheelchair role play: teaching note and instructions ({{% resource_link 1849bd98-153f-e8a9-e071-1f5365486b30 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -101,13 +106,13 @@ Wheelchair role play: teaching note and instructions ([PDF]({{< baseurl >}}/reso
 History of development: (1950-1970): The colonial legacy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec03_nb))
+({{% resource_link 76296243-bfb0-96c9-ecac-8ee13c1df97f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec03_notes))
+({{% resource_link 4bb4872e-5911-ad27-1e84-5bf28411dcb1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec03))
+Slides ({{% resource_link ecf2d296-20f6-d57d-e094-6f9a71536b05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,10 +132,10 @@ Intermediate technology
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec04_nb))
+({{% resource_link b585b0a7-dea5-a455-a30b-6f7385c21461 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec04_notes))
+({{% resource_link 6ab9b05b-9d91-8fc9-be72-e0ed4f3cb734 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -157,13 +162,13 @@ _Guest speaker_: Mitch Resnick ([MIT Media Lab](http://web.media.mit.edu/~mres/)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec05_nb))
+({{% resource_link 156c85d9-63d6-fec5-83e9-2d2c0cc77e99 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec05_notes))
+({{% resource_link d222dae3-3335-1bcf-d163-c13655fcc70b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 1.3MB]({{< baseurl >}}/resources/mitec_701jf09_lec05))
+Slides ({{% resource_link 9339b0a5-b39a-a7a7-759b-e043cc097f7b "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,10 +186,10 @@ _Guest speaker_: John Kufuor, (former president of Ghana)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec06_nb))
+({{% resource_link df2f5b15-3046-0f87-0b6e-ec94c4b4297f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec06_notes))
+({{% resource_link 8a10a0bc-7594-afc5-f1ed-9b644833865d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Video of this talk: "[Entrepreneurship, Government, and Development in Africa](http://techtv.mit.edu/videos/16579-entrepreneurship-government-and-development-in-africa)." MIT World. September 21, 2009.
@@ -205,13 +210,13 @@ Agricultural technology showcase: post-harvest processing
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec07_nb))
+({{% resource_link 4fc1726d-7b75-7542-5cf8-ba5a61642c7c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec07_notes))
+({{% resource_link 7fd09e55-48af-a4ac-6325-2eb7e9f1c987 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 1.8MB]({{< baseurl >}}/resources/mitec_701jf09_lec07))
+Slides ({{% resource_link 4dbbbbc7-5ae8-94b7-1d51-ed2bd9b5fa79 "PDF - 1.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +232,7 @@ Projects and partners: China, India, Rwanda, Sierra Leone, Tanzania, Zambia
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec08_nb))
+({{% resource_link 77ebd24f-1dfe-69e9-e805-0cb3ccb36dac "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -251,7 +256,7 @@ Agricultural technology showcase: drip irrigation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec09_nb))
+({{% resource_link 55816efb-acfb-949a-5df7-1ee423207a67 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -295,10 +300,10 @@ Agricultural focus groups:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec11_nb))
+({{% resource_link c9c894c7-3734-508a-1cd4-e77333253346 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec11_notes))
+({{% resource_link 5bda39b6-777b-a55b-1bb6-ba1e9cfbd2ce "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -319,13 +324,13 @@ Energy lab: charcoal
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec12_nb))
+({{% resource_link fabe5c36-c1d5-caca-c494-8f913108fd1a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 2.3MB]({{< baseurl >}}/resources/mitec_701jf09_lec12))
+Slides ({{% resource_link 65d38d8c-eb44-667b-3b33-462d15c53582 "PDF - 2.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -345,7 +350,7 @@ _Guest speaker_: Jim Bales ([MIT Edgerton Center](http://web.mit.edu/edgerton/ma
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec13_nb))
+({{% resource_link d3c55154-29e1-bbac-c25b-eda75b0e6ba4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -372,7 +377,7 @@ Energy lab: human power production
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec14_notes))
+({{% resource_link eb3190b9-10ff-c940-ecd1-77bff2f14849 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -388,12 +393,12 @@ Energy lab: human power production
 
 Energy: Wind and water
 
-_Guest speakers_: Shawn Frayne (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Humdinger Wind Energy](https://www.bloomberg.com/profile/company/0149409D:US)), Peter Haas ([Appropriate Infrastructure Development Group](http://www.policyinnovations.org/innovators/organizations/data/00975))
+_Guest speakers_: Shawn Frayne ([Humdinger Wind Energy](https://www.bloomberg.com/profile/company/0149409D:US)), Peter Haas ([Appropriate Infrastructure Development Group](http://www.policyinnovations.org/innovators/organizations/data/00975))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec15_nb))
+({{% resource_link 32821893-6680-7690-b0c9-2369a2dabc78 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -421,7 +426,7 @@ HOMER
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec16_nb))
+({{% resource_link f9062d68-5d0a-d657-a834-7cc727fe12e9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -445,7 +450,7 @@ Water lab 1: bacterial testing
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec17_nb))
+({{% resource_link 07685721-3f04-34b1-a0eb-23cf4e42fe21 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -453,9 +458,9 @@ Water lab 1: bacterial testing
 {{< tdopen >}}
 
 
-"Low-Cost Water Testing Apparatus." ([PDF]({{< baseurl >}}/resources/mitec_701jf09_lab17water_dtm)) (Courtesy of the TestWaterCheap team from MIT course _Design that Matters_, 2004. Used with permission.)
+"Low-Cost Water Testing Apparatus." ({{% resource_link a9afd323-3e33-61f5-42e5-34d250e35b43 "PDF" %}}) (Courtesy of the TestWaterCheap team from MIT course _Design that Matters_, 2004. Used with permission.)
 
-Spreadsheet of student lab results ([XLS]({{< baseurl >}}/resources/mitec_701jf09_lab17_water))
+Spreadsheet of student lab results ({{% resource_link 5c37ce87-1954-f5e7-aee0-3d9e463a88b9 "XLS" %}})
 
 
 {{< tdclose >}}
@@ -475,10 +480,10 @@ _Guest speaker_: Susan Murcott
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec18_nb))
+({{% resource_link df635851-3710-70d1-71f8-6418bbe7200c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec18_notes))
+({{% resource_link 4ee8ad95-f52c-0d4b-f5d9-923e525c6144 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Safe Water for 1 Billion People (H2O-1B)](http://web.mit.edu/watsan/)
@@ -499,10 +504,10 @@ _Guest speaker_: William Kamkwamba
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec19_nb))
+({{% resource_link f8f5df0d-560a-70d2-b212-9a93829b5774 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec19_notes))
+({{% resource_link 435ba0ff-3ff2-3655-25b1-12cc55709261 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -556,13 +561,13 @@ _Guest speaker_: Rachel Glennerster (Executive Director, [Abdul Latif Jameel Pov
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec21_nb))
+({{% resource_link fe49a1e4-2d99-7832-7d55-f465ded975e0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec21_rg)) (Courtesy of Rachel Glennerster. Used with permission.)
+Slides ({{% resource_link fde3a559-2f58-5603-0cd8-9263f0d5d0bf "PDF" %}}) (Courtesy of Rachel Glennerster. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -580,7 +585,7 @@ Role of NGOs in development
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec22_nb))
+({{% resource_link 167d3ce2-cb7e-56c2-f7c3-06c524703a5e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -598,13 +603,13 @@ Role of NGOs in development
 Microfinance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec23_nb))
+({{% resource_link da4334e2-204e-67b6-7a07-26c9ece728ff "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec23))
+Slides ({{% resource_link 7dff9aa8-1e3d-47d0-64e6-45ea4238d2c6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -622,10 +627,10 @@ _Guest speaker_: Iqbal Quadir, (Founder & Director, [MIT Legatum Center for Deve
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec24_nb))
+({{% resource_link a80e7f49-5a4b-ff54-0863-24848c4f8ebb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec24_notes))
+({{% resource_link e38ee7c1-1ec3-4220-b9d8-4b2ff624d9e8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -646,10 +651,10 @@ _Guest speaker_: Balakrishnan Rajagopal
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec25_nb))
+({{% resource_link 1f547b1c-b426-87af-372b-9718ab86122e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec25_notes))
+({{% resource_link 3c617d5a-ad9c-1972-82f4-6b2407953eb3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -664,7 +669,7 @@ _Guest speaker_: Balakrishnan Rajagopal
 ICT4D
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec26_nb))
+({{% resource_link 7b7f76b0-8e41-e8fc-2951-e9f80d8655e2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -690,10 +695,10 @@ Scratch activity
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec27_nb))
+({{% resource_link 0f2de816-eafa-b875-438f-fc5c88edb234 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec27_notes))
+({{% resource_link c92d9b0a-f336-9c76-eb6c-d84958120b2c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [SCRATCH](http://scratch.mit.edu/) website
@@ -716,10 +721,10 @@ Concrete lab
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec28_nb))
+({{% resource_link 35f23ab9-9273-bd89-aec0-fb3423a8f63e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec28_notes))
+({{% resource_link bfd818ae-feac-063f-f895-b384774b9703 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -758,7 +763,7 @@ Cooking lab
 The AIDS/HIV crisis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec30_nb))
+({{% resource_link 9a11dcd6-2896-041f-e2c7-b8b6620cd709 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -782,10 +787,10 @@ _Guest speaker_: Jose Gomez-Marquez (MIT; Innovations in International Health (I
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec31_nb))
+({{% resource_link bebac8c2-f790-5500-a78b-b90841c69311 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.0MB]({{< baseurl >}}/resources/mitec_701jf09_lec31_notes))
+({{% resource_link 9b4b19c5-968b-263b-af98-000af81795b6 "PDF - 3.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -800,13 +805,13 @@ _Guest speaker_: Jose Gomez-Marquez (MIT; Innovations in International Health (I
 Team presentations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec32_nb))
+({{% resource_link b75bdea2-8f77-112f-5aeb-c1c844b90ae0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-See presentations on the [projects]({{< baseurl >}}/pages/projects#proj_work) page
+See presentations on the {{% resource_link 1fa3c17d-01e7-3dd2-1f9b-61e1bafe78fe "projects" "#proj_work" %}} page
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -826,7 +831,7 @@ Cultural implications of development
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec33_nb))
+({{% resource_link bbd3a84d-14b4-0527-c623-5458d04565a4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -854,15 +859,15 @@ Role play activity: water resources
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec34_nb))
+({{% resource_link c4526442-0a2a-2326-105b-19f3a48b598c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec34_notes))
+({{% resource_link 8c7bfd37-db1e-aed8-5898-6bfa28ffe38f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Water role play: teaching note and instructions ([PDF]({{< baseurl >}}/resources/mitec_701jf09_act34water_rp))
+Water role play: teaching note and instructions ({{% resource_link b286e5ae-85c0-3ea4-d03c-0c0978b06159 "PDF" %}})
 
 [Paul Polak's website](http://www.paulpolak.com/)
 
@@ -884,13 +889,13 @@ _Guest speaker:_ Kamilla Gumede ([Abdul Latif Jameel Poverty Action Lab](http://
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec35_nb))
+({{% resource_link 3800cfca-c967-972c-89b6-f6ca0792f5e8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec35_notes))
+({{% resource_link 9ed2688d-cdcd-a710-e075-9f0c8565080a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mitec_701jf09_lec35_jpal)) (Courtesy of Kamilla T. Gumede. Used with permission.)
+({{% resource_link 053536de-2544-c500-9f22-38a701ef2826 "PDF - 1.3MB" %}}) (Courtesy of Kamilla T. Gumede. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -908,10 +913,10 @@ _Guest speaker:_ Ben Linder
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec36_nb))
+({{% resource_link 60577191-9d71-ed49-197d-ba85777b70aa "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec36_notes))
+({{% resource_link cbbfec78-ead9-768d-340f-909b782eb858 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -926,7 +931,7 @@ _Guest speaker:_ Ben Linder
 Panel discussion with [Special Program for Urban and Regional Studies (SPURS)](http://web.mit.edu/spurs/www/) fellows
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_701jf09_lec37_nb))
+({{% resource_link 0eb32c78-f801-d5d1-155d-2089fa534364 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

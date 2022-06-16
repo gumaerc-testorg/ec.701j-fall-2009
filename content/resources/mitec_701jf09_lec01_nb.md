@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding  Introduction.
-file: /media/courses/ec-701j-d-lab-i-development-fall-2009/bdf47ae582f33c930c638a58cc1264b4_MITEC_701JF09_lec01_nb.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/bdf47ae582f33c930c638a58cc1264b4_MITEC_701JF09_lec01_nb.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,8 @@ parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Lecture #1: Introduction'
 uid: bdf47ae5-82f3-3c93-0c63-8a58cc1264b4
+video_metadata:
+  youtube_id: null
 ---
+This resource contains the information regarding  Introduction.
+

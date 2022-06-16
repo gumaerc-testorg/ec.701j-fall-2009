@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section includes several films and videos assigned for the class
+  as well as assigned readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: c2765c9d-b1b0-3d75-c630-7ad2f38ee68d
+video_metadata:
+  youtube_id: null
 ---
 
 This page includes several films and videos assigned for the class as well as assigned readings.
@@ -125,7 +129,7 @@ _Guest speaker_: Mitch Resnick (MIT Media Lab)
 {{< tdopen >}}
 
 
-Chambers, R. "Poverty and Livelihoods: Whose Reality Counts?" _Environment and Urbanization_ 7, no. 1 (1995): 173-204. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ucl.ac.uk/dpu-projects/drivers_urb_change/urb_society/pdf_liveli_vulnera/IIED_Chambers_poverty.pdf))
+Chambers, R. "Poverty and Livelihoods: Whose Reality Counts?" _Environment and Urbanization_ 7, no. 1 (1995): 173-204. ([PDF](http://www.ucl.ac.uk/dpu-projects/drivers_urb_change/urb_society/pdf_liveli_vulnera/IIED_Chambers_poverty.pdf))
 
 [United Nations Millennium Declaration](https://www.ohchr.org/EN/ProfessionalInterest/Pages/Millennium.aspx) \[AKA "millennium development goals"\]. September 8, 2000.
 
@@ -199,7 +203,7 @@ Agricultural technology showcase: Drip irrigation
 
 Fuller, P. "[More Crop Per Drop](http://www.new-ag.info/focus/focusItem.php?a=1300)." _New Agriculturist_ (September 1, 2004).
 
-Smith, A. "D-Lab Technology Brief: Low-Cost Drip Irrigation." ([PDF]({{< baseurl >}}/resources/mitec_701jf09_read09_smith))
+Smith, A. "D-Lab Technology Brief: Low-Cost Drip Irrigation." ({{% resource_link 1a3bfd25-5b05-c71e-c279-b2513786a4e8 "PDF" %}})
 
 Film: [_Peanuts_](http://www.bullfrogfilms.com/catalog/pnuts.html) (2002)
 
@@ -251,7 +255,7 @@ Gaertner, P. "[Whether Pigs Have Wings: African Swine Fever Eradication and Pig 
 
 ### Human Rights
 
-Smaller, C. "Planting the Rights Seed: A Human Rights Perspective on Agricultural Trade and the WTO." _THREAD_, March 2005. ([PDF]({{< baseurl >}}/resources/mitec_701jf09_read11_hr1))
+Smaller, C. "Planting the Rights Seed: A Human Rights Perspective on Agricultural Trade and the WTO." _THREAD_, March 2005. ({{% resource_link cd13858e-4e89-74a5-09ae-bb2857c6b9eb "PDF" %}})
 
 Daley, J. "[Forget Fairtrade - Only Free Trade can Help Poor](http://www.telegraph.co.uk/comment/columnists/janetdaley/3555412/Forget-Fairtrade-only-free-trade-can-help-poor.html)," _Telegraph (UK)_, February 25, 2008.
 
@@ -269,7 +273,7 @@ Hampwaye G., E. Nel, et al. "[Urban Agriculture as a Local Initiative in Lusaka,
 
 Baffoe, J. K. "Structural Adjustment and Agriculture in Uganda." International Labour Organization, Working Paper WP.149, March 2000.
 
-Structural Adjustment Participatory Review International Network (SAPRIN). "Impact of Agricultural Sector Adjustment Policies on Small Farmers and Food Security." Chapter 6 in _The Policy Roots of Economic Crisis and Poverty: A Multi-Country Participatory Assessment of Structural Adjustment_. April, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.saprin.org/SAPRIN_Findings.pdf))
+Structural Adjustment Participatory Review International Network (SAPRIN). "Impact of Agricultural Sector Adjustment Policies on Small Farmers and Food Security." Chapter 6 in _The Policy Roots of Economic Crisis and Poverty: A Multi-Country Participatory Assessment of Structural Adjustment_. April, 2002. ([PDF](http://www.saprin.org/SAPRIN_Findings.pdf))
 
 
 {{< tdclose >}}
@@ -315,7 +319,7 @@ _Guest speaker_: Jim Bales (MIT Edgerton Center)
 
 {{< tdclose >}}
 {{< tdopen >}}
-Bishop, J., J. Bales, et al. "The Photovoltaic Primer." D-Lab Technology Overview. ([PDF - 1.3MB]({{< baseurl >}}/resources/mitec_701jf09_read13_pvprmer))
+Bishop, J., J. Bales, et al. "The Photovoltaic Primer." D-Lab Technology Overview. ({{% resource_link dfd9b45c-ce3e-545c-037d-86ecd8489b82 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -377,7 +381,7 @@ Village energy assessment
 
 {{< tdclose >}}
 {{< tdopen >}}
-NREL. _Getting started Guide for HOMER Version 2.1._ April 2005. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)([PDF](https://pire.soe.ucsc.edu/sites/default/files/HOMERGettingStarted210_0.pdf))
+NREL. _Getting started Guide for HOMER Version 2.1._ April 2005. ([PDF](https://pire.soe.ucsc.edu/sites/default/files/HOMERGettingStarted210_0.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -503,7 +507,7 @@ Microfinance
 
 Jain, P. S. "[Managing Credit for the Rural Poor: Lessons from the Grameen Bank](http://dx.doi.org/10.1016/0305-750X(95)00116-T)." _World Development_ 24, no. 1 (1996): 79-89.
 
-Hammond, A., and C. K. Prahalad. "What Works: Serving the World's Poor, Profitably." World Resources Institute, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdf.wri.org/whatworks_serving_profitably.pdf))
+Hammond, A., and C. K. Prahalad. "What Works: Serving the World's Poor, Profitably." World Resources Institute, 2004. ([PDF](http://pdf.wri.org/whatworks_serving_profitably.pdf))
 
 
 {{< tdclose >}}
@@ -589,7 +593,7 @@ _Guest speaker_: Mitch Resnick
 {{< tdopen >}}
 
 
-Resnick, M. "Sowing the Seeds for a More Creative Society." _Learning and Leading with Technology_ (2007): 18-22. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.media.mit.edu/~mres/papers/Learning-Leading-final.pdf))
+Resnick, M. "Sowing the Seeds for a More Creative Society." _Learning and Leading with Technology_ (2007): 18-22. ([PDF](http://web.media.mit.edu/~mres/papers/Learning-Leading-final.pdf))
 
 Optional: [Video](https://www.youtube.com/watch?v=oXPKvoPYW_8) of talk at Google, October 26, 2006 (54 min)
 
@@ -611,7 +615,7 @@ Concrete lab
 
 {{< tdclose >}}
 {{< tdopen >}}
-Deora, A. "Toilet Talk: Appropriate Toilets for Developing Countries." ([PDF]({{< baseurl >}}/resources/mitec_701jf09_read28_toilet)) (Courtesy of Amy Deora. Used with permission.)
+Deora, A. "Toilet Talk: Appropriate Toilets for Developing Countries." ({{% resource_link b8dc07c1-be2f-0585-4438-589199a7b94e "PDF" %}}) (Courtesy of Amy Deora. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -637,7 +641,7 @@ The AIDS/HIV crisis
 {{< tdopen >}}
 
 
-UNAIDS. "Executive Summary." In [_Report on the global AIDS epidemic_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.1MB)](http://data.unaids.org/pub/GlobalReport/2008/jc1511_gr08_executivesummary_en.pdf) 2008.
+UNAIDS. "Executive Summary." In [_Report on the global AIDS epidemic_. (PDF - 2.1MB)](http://data.unaids.org/pub/GlobalReport/2008/jc1511_gr08_executivesummary_en.pdf) 2008.
 
 Film: [_Living with AIDS (On the Frontlines of AIDS)_](http://www.insightnewstv.com/aids/) (2005)
 
@@ -691,7 +695,7 @@ Cultural implications of development
 
 {{< tdclose >}}
 {{< tdopen >}}
-Packing List and Tips for Traveling ([PDF]({{< baseurl >}}/resources/mitec_701jf09_read33_tips))
+Packing List and Tips for Traveling ({{% resource_link 00d08bf4-4e19-0528-1b36-8f71295c70d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -715,7 +719,7 @@ _Guest speaker:_ Paul Polak, IDE
 
 Polak, P. "The Three Great Poverty Eradication Myths." Chapter 2 in _Out of Poverty_. Berrett-Koehler Publishers, 2008, pp. 27-48. ISBN: 9781576754498. \[Preview with [Google Books](http://books.google.com/books?id=Hd0TYcBRPkgC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
-Edwards, M. _Just Another Emperor_. 2008. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.5MB](https://www.futurepositive.org/edwards_WEB.pdf))
+Edwards, M. _Just Another Emperor_. 2008. ([PDF - 1.5MB](https://www.futurepositive.org/edwards_WEB.pdf))
 
 
 {{< tdclose >}}
@@ -737,7 +741,7 @@ _Guest speakers_: Kamilla Gumede (Jameel Poverty Action Lab)
 {{< tdopen >}}
 
 
-Duflo, E., M. Greenstone, et al. "Cooking Stoves, Indoor Air Pollution and Respiratory Health in Rural Orissa." _Economic & Political Weekly_ 43, no. 32 (2008): 71-6. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/ceepr/www/publications/reprints/Reprint_205_WC.pdf))
+Duflo, E., M. Greenstone, et al. "Cooking Stoves, Indoor Air Pollution and Respiratory Health in Rural Orissa." _Economic & Political Weekly_ 43, no. 32 (2008): 71-6. ([PDF](http://web.mit.edu/ceepr/www/publications/reprints/Reprint_205_WC.pdf))
 
 Kremer, M., E. Miguel, et al. "[Water Technologies: What Works Best in Poor Countries?](http://bostonreview.net/world/water-technologies)" _Boston Review_, September/October 2008.
 
