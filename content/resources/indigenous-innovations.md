@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Related Resources
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Indigenous Innovations
 uid: d834284e-9adb-cd60-3675-74b264c9eebf
 video_files:

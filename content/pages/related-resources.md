@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This page presents additional technology resources from D-Lab, related
+  videos featuring D-Lab instructors, and development indicator statistics resources.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: a2749512-298f-1014-fdda-cc33cad4ec0d
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents additional technology resources from D-Lab, [related videos](#Videos) featuring D-Lab instructors, and [development indicator statistics](#Stats) resources.
@@ -21,21 +27,21 @@ Learn how to build and use D-Lab technologies! Whether you are working with a co
 
 These documents describe the tools and processes needed to make charcoal from agricultural waste, which provides a clean-burning, environmentally-friendly alternative to wood charcoal.
 
-*   Charcoal Background Notes ([PDF - 1.3MB]({{< baseurl >}}/resources/mitec_701jf09_char_bg))
-*   Charcoal Press Built-It ([PDF]({{< baseurl >}}/resources/mitec_701jf09_charpre_build))
-*   Charcoal Press Build-It (with Teaching Notes) ([PDF]({{< baseurl >}}/resources/mitec_701jf09_charpr_bld_tn))
-*   Charcoal Press Do-It ([PDF]({{< baseurl >}}/resources/mitec_701jf09_charpres_doit))
-*   Charcoal Process Do-It ([PDF - 1.5MB]({{< baseurl >}}/resources/mitec_701jf09_charproc_doit))
+*   Charcoal Background Notes ({{% resource_link 6fe20192-17e6-001d-dd86-7bd1b3f7da6f "PDF - 1.3MB" %}})
+*   Charcoal Press Built-It ({{% resource_link 3f9b30e8-b2d8-afa8-9131-3ce136f121f5 "PDF" %}})
+*   Charcoal Press Build-It (with Teaching Notes) ({{% resource_link eaf4ef2a-27b8-edde-2c24-ebe3e7b3fa04 "PDF" %}})
+*   Charcoal Press Do-It ({{% resource_link b2f366dc-9785-5eaf-63fe-34c3bdb7ee32 "PDF" %}})
+*   Charcoal Process Do-It ({{% resource_link 0d90efa4-2fd0-29e4-87be-8891e2bf810f "PDF - 1.5MB" %}})
 
 ### Corn Shellers
 
 These documents describe the tools and processes for making a simple hand-held device for removing the dried kernels from an ear of corn. The corn sheller can be either casted in aluminum or made from a sheet of metal.
 
-*   Corn Sheller Background Notes ([PDF]({{< baseurl >}}/resources/mitec_701jf09_corn_bg))
-*   Cast Corn Sheller Build-It ([PDF - 1.2MB]({{< baseurl >}}/resources/mitec_701jf09_corncst_build))
-*   Sheet Metal Corn Sheller Build-It ([PDF]({{< baseurl >}}/resources/mitec_701jf09_cornsht_build))
-*   Sheet Metal Corn Sheller Do-It ([PDF - 1.5MB]({{< baseurl >}}/resources/mitec_701jf09_cornshet_doit))
-*   Corn Sheller Jig Do-It ([PDF]({{< baseurl >}}/resources/mitec_701jf09_cornjig_doit))
+*   Corn Sheller Background Notes ({{% resource_link 02951d32-7e7c-a7b5-935d-a1f471424608 "PDF" %}})
+*   Cast Corn Sheller Build-It ({{% resource_link d0b041ec-9af1-cf0a-4b86-d498f4af9098 "PDF - 1.2MB" %}})
+*   Sheet Metal Corn Sheller Build-It ({{% resource_link bec124d9-a361-a9b3-efc6-5a885b6c991c "PDF" %}})
+*   Sheet Metal Corn Sheller Do-It ({{% resource_link e4fbbfbb-9958-14c1-f0b9-63a7f4caa38c "PDF - 1.5MB" %}})
+*   Corn Sheller Jig Do-It ({{% resource_link 8207220d-aa6e-daf7-7f94-a0187bfd152b "PDF" %}})
 
 {{< anchor "Videos" >}}Related Videos{{< /anchor >}}
 ----------------------------------------------------
