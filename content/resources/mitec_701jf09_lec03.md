@@ -6,6 +6,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/ecf2d29620f6d57de0946f9a715
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding History of Development 1950-1970 - Colonial Legacy.
-

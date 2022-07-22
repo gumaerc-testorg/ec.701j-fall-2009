@@ -6,6 +6,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/f70e41855535404f320fe0d3aff
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding Group assignment 4: Village energy assessment.
-

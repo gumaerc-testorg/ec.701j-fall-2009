@@ -6,6 +6,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/fde3a5592f5856030cd89263f0d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding The Role of the International Financial Institutions in Development .
-

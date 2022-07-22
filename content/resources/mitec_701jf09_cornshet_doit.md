@@ -5,6 +5,7 @@ description: This resource contains the information regarding Sheet Metal Corn S
 file: /courses/ec-701j-d-lab-i-development-fall-2009/e4fbbfbb995814c1f0b963a7f4caa38c_MITEC_701JF09_cornshet_doit.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding Sheet Metal Corn Sheller Do-It.
-

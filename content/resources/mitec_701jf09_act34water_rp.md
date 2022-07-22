@@ -5,6 +5,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/b286e5ae85c03ea4d03c0c0978b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding Village Water System.
-

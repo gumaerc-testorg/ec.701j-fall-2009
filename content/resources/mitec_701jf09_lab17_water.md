@@ -5,6 +5,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/5c37ce871954f5e7aee03d9e463
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This is the special file regarding water.
-

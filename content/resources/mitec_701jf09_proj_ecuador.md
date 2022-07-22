@@ -6,6 +6,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/685b9cc4395e2021e52c359efc0
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding Project team presentation: Ecuador.
-

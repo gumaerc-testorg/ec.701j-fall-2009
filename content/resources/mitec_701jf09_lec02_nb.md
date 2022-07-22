@@ -6,6 +6,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/d9b8450077ed2ae471c066b6998
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding D-Lab Philosophy of Development.
-

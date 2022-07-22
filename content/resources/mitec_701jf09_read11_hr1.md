@@ -6,6 +6,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/cd13858e4e8974a509aebb2857c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding "Planting the Rights Seed: A human rights perspective on agricultural trade and the WTO.".
-

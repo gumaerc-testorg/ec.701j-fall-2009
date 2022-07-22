@@ -6,6 +6,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/156c85d963d6fec583e92d2c0cc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding History of Development: (1990 - present) Millennium Development Goals.
-

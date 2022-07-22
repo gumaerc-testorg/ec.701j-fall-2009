@@ -6,6 +6,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/dfd9b45cce3e545c037d86ecd84
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding "D-Lab Technology Overview: The Photovoltaic Primer.".
-
