@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Health Issues in the
   Developing World.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/bebac8c2f7905500a78bb90841c69311_MITEC_701JF09_lec31_nb.pdf
+file_size: 548293
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Wheelchairs of the World.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/1849bd98153fe8a9e0711f5365486b30_MITEC_701JF09_act02chair_rp.pdf
+file_size: 473183
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

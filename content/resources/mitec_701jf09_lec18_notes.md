@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Water Issues in the
   Developing World.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/4ee8ad95f52c0d4bf5d9923e525c6144_MITEC_701JF09_lec18_notes.pdf
+file_size: 899475
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

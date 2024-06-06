@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Projects and Partners.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/77ebd24f1dfe69e9e8050cb3ccb36dac_MITEC_701JF09_lec08_nb.pdf
+file_size: 368140
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Agricultural Focus Groups.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/5bda39b6777ba55b1bb6ba1e9cfbd2ce_MITEC_701JF09_lec11_notes.pdf
+file_size: 212660
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

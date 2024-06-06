@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Appropriate and Intermediate
   Technology.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/6ab9b05b9d918fc9be72e0ed4f3cb734_MITEC_701JF09_lec04_notes.pdf
+file_size: 230450
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

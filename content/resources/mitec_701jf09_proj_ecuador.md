@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding Project team presentation:
   Ecuador.'
 file: /courses/ec-701j-d-lab-i-development-fall-2009/685b9cc4395e2021e52c359efc03ce37_MITEC_701JF09_proj_ecuador.pdf
+file_size: 335519
 file_type: application/pdf
 learning_resource_types:
 - Projects
