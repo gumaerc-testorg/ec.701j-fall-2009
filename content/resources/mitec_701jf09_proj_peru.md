@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding Project team presentation:
   Peru.'
 file: /courses/ec-701j-d-lab-i-development-fall-2009/a6b0401a42852bfdcb99c1ceb6014c17_MITEC_701JF09_proj_peru.pdf
+file_size: 606046
 file_type: application/pdf
 learning_resource_types:
 - Projects

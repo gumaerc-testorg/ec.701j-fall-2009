@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding Project team presentation:
   Rwanda.'
 file: /courses/ec-701j-d-lab-i-development-fall-2009/d049f80b5e40df402d8127d2fbcc37ac_MITEC_701JF09_proj_rwanda.pdf
+file_size: 949295
 file_type: application/pdf
 learning_resource_types:
 - Projects

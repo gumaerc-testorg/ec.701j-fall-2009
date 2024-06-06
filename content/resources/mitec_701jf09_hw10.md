@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Trip project proposal
   form.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/e739fe0102d16d6ecf4e9159d10e79cf_MITEC_701JF09_hw10.pdf
+file_size: 96419
 file_type: application/pdf
 learning_resource_types:
 - Assignments
