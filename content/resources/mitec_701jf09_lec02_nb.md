@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding D-Lab Philosophy of
   Development.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/d9b8450077ed2ae471c066b6998f703d_MITEC_701JF09_lec02_nb.pdf
+file_size: 320129
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

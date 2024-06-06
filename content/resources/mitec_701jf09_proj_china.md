@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding Project team presentation:
   China.'
 file: /courses/ec-701j-d-lab-i-development-fall-2009/e3142125ec924a86d356177cc63d4170_MITEC_701JF09_proj_china.pdf
+file_size: 584927
 file_type: application/pdf
 learning_resource_types:
 - Projects

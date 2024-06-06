@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Entrepreneurship, Government,
   and Development in Africa.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/df2f5b1530460f870b6eec94c4b4297f_MITEC_701JF09_lec06_nb.pdf
+file_size: 340925
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

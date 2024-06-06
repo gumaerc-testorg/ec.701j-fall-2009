@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Charcoal Process Do-It.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/0d90efa42fd029e487be8891e2bf810f_MITEC_701JF09_charproc_doit.pdf
+file_size: 1525391
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

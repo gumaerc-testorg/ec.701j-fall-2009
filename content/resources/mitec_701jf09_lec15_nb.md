@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Energy: Wind and Water.'
 file: /courses/ec-701j-d-lab-i-development-fall-2009/3282189366807690b0c92369a2dabc78_MITEC_701JF09_lec15_nb.pdf
+file_size: 373080
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Course introduction.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/42e4332e727d8b711de13cf8eff712f0_MITEC_701JF09_lec01.pdf
+file_size: 4596296
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

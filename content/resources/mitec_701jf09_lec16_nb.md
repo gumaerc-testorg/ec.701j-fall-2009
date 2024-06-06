@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Modeling Energy Systems.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/f9062d685d0ad657a8347cc727fe12e9_MITEC_701JF09_lec16_nb.pdf
+file_size: 432242
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

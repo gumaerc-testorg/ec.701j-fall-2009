@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Practical photovoltaics
   design.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/34e26bb52efc050dfbc569ff8944fc36_MITEC_701JF09_hw9.pdf
+file_size: 81206
 file_type: application/pdf
 learning_resource_types:
 - Assignments

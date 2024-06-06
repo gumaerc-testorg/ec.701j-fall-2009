@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Project selection form.
 file: /courses/ec-701j-d-lab-i-development-fall-2009/0c57c479d5441b718fbc2341edc9ab9c_MITEC_701JF09_hw5.pdf
+file_size: 161070
 file_type: application/pdf
 learning_resource_types:
 - Assignments
