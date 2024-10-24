@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Charcoal Background
   Notes.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/6fe2019217e6001ddd867bd1b3f7da6f_MITEC_701JF09_char_bg.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/6fe2019217e6001ddd867bd1b3f7da6f_MITEC_701JF09_char_bg.pdf
 file_size: 1344266
 file_type: application/pdf
 learning_resource_types: []

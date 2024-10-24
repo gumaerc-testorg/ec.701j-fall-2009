@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Market Approaches to
   Development.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/8c7bfd37db1eaed858986bfa28ffe38f_MITEC_701JF09_lec34_notes.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/8c7bfd37db1eaed858986bfa28ffe38f_MITEC_701JF09_lec34_notes.pdf
 file_size: 654566
 file_type: application/pdf
 learning_resource_types:

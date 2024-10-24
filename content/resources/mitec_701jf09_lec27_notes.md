@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding ICT in Creativity.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/c92d9b0af3369c76eb6cd84958120b2c_MITEC_701JF09_lec27_notes.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/c92d9b0af3369c76eb6cd84958120b2c_MITEC_701JF09_lec27_notes.pdf
 file_size: 270532
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Quiz 2.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/89e0db13e85ee8a33f07fd6ffa6eb616_MITEC_701JF09_quiz2.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/89e0db13e85ee8a33f07fd6ffa6eb616_MITEC_701JF09_quiz2.pdf
 file_size: 174044
 file_type: application/pdf
 learning_resource_types:

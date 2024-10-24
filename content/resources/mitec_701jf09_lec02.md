@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding D-Lab philosophy, stakeholder
   analysis.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/66ddec953669b82e7be6de608d7751c6_MITEC_701JF09_lec02.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/66ddec953669b82e7be6de608d7751c6_MITEC_701JF09_lec02.pdf
 file_size: 1896619
 file_type: application/pdf
 learning_resource_types:
