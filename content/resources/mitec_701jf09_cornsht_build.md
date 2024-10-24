@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Sheet Metal Corn Sheller
   Build-It.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/bec124d9a361a9b3efc65a885b6c991c_MITEC_701JF09_cornsht_build.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/bec124d9a361a9b3efc65a885b6c991c_MITEC_701JF09_cornsht_build.pdf
 file_size: 404265
 file_type: application/pdf
 learning_resource_types: []

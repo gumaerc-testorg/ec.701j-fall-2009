@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Harnessing the Wind.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/435ba0ff3ff2365525b112cc55709261_MITEC_701JF09_lec19_notes.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/435ba0ff3ff2365525b112cc55709261_MITEC_701JF09_lec19_notes.pdf
 file_size: 461560
 file_type: application/pdf
 learning_resource_types:

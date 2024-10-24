@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Micro Enterprises.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/7dff9aa81e3d47d064e645ea4238d2c6_MITEC_701JF09_lec23.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/7dff9aa81e3d47d064e645ea4238d2c6_MITEC_701JF09_lec23.pdf
 file_size: 193345
 file_type: application/pdf
 learning_resource_types:

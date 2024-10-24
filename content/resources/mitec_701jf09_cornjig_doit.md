@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Corn Sheller Jig Do-It.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/8207220daa6edaf77f94a0187bfd152b_MITEC_701JF09_cornjig_doit.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/8207220daa6edaf77f94a0187bfd152b_MITEC_701JF09_cornjig_doit.pdf
 file_size: 494010
 file_type: application/pdf
 learning_resource_types: []
