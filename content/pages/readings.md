@@ -139,8 +139,8 @@ Country team meetings
 
 Agricultural focus groups:
 
-\- Green revolution      
-\- Agriculture and external aid      
+\- Green revolution       
+\- Agriculture and external aid       
 \- Agriculture and human rights
 
 {{< tdclose >}}{{< tdopen >}}
@@ -214,7 +214,7 @@ Energy: Human power
 Energy Lab: Human power production
 
 {{< tdclose >}}{{< tdopen >}}
-Wilson, D. G. "[Understanding Pedal Power](http://www.cd3wd.com/cd3wd_40/vita/pedalpwr/en/pedalpwr.htm)." VITA Technical Paper #51, 1986.
+Wilson, D. G. "[Understanding Pedal Power](https://pdf.usaid.gov/pdf_docs/pnabc976.pdf)." VITA Technical Paper #51, 1986.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
