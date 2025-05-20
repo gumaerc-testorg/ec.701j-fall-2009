@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding The Colonial Legacy.
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/4bb4872e5911ad271e845bf28411dcb1_MITEC_701JF09_lec03_notes.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/4bb4872e5911ad271e845bf28411dcb1_MITEC_701JF09_lec03_notes.pdf
 file_size: 292194
 file_type: application/pdf
 learning_resource_types:

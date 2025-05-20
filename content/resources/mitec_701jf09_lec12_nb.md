@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Energy: Biomass, Biogas
   and Biodiesel.'
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/fabe5c36c1d5cacac4948f913108fd1a_MITEC_701JF09_lec12_nb.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/fabe5c36c1d5cacac4948f913108fd1a_MITEC_701JF09_lec12_nb.pdf
 file_size: 269568
 file_type: application/pdf
 learning_resource_types:
