@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Participatory Development
   & Co-Creation.
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/d222dae333351bcfd163c13655fcc70b_MITEC_701JF09_lec05_notes.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/d222dae333351bcfd163c13655fcc70b_MITEC_701JF09_lec05_notes.pdf
 file_size: 279310
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Discussion of Drowned
   Out.
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/1f547b1cb42687af372b9718ab86122e_MITEC_701JF09_lec25_nb.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/1f547b1cb42687af372b9718ab86122e_MITEC_701JF09_lec25_nb.pdf
 file_size: 308038
 file_type: application/pdf
 learning_resource_types:

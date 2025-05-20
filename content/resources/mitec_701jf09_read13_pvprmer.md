@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding "D-Lab Technology Overview:
   The Photovoltaic Primer.".'
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/dfd9b45cce3e545c037d86ecd8489b82_MITEC_701JF09_read13_pvprmer.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/dfd9b45cce3e545c037d86ecd8489b82_MITEC_701JF09_read13_pvprmer.pdf
 file_size: 1440290
 file_type: application/pdf
 learning_resource_types:

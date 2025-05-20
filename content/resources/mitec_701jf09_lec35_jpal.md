@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding What works - lessons
   from J-PAL.
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/053536de2544c5009f2238a701ef2826_MITEC_701JF09_lec35_jpal.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/053536de2544c5009f2238a701ef2826_MITEC_701JF09_lec35_jpal.pdf
 file_size: 1060325
 file_type: application/pdf
 learning_resource_types:
