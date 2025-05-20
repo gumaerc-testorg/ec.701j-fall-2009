@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Evening film screening:
   Living with AIDS.'
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/9a11dcd62896041fe2c7b8b6620cd709_MITEC_701JF09_lec30_nb.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/9a11dcd62896041fe2c7b8b6620cd709_MITEC_701JF09_lec30_nb.pdf
 file_size: 302755
 file_type: application/pdf
 learning_resource_types:

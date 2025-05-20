@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Group assignment 5:
   Water testing worksheet.'
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/2d2dc4d91eec8a736d8a5f0b584e1623_MITEC_701JF09_proj5.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/2d2dc4d91eec8a736d8a5f0b584e1623_MITEC_701JF09_proj5.pdf
 file_size: 103043
 file_type: application/pdf
 learning_resource_types:

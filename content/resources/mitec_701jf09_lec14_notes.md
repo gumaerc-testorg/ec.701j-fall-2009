@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Hands-On Human Power.
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/eb3190b910ffc940ecd177bff2f14849_MITEC_701JF09_lec14_notes.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/eb3190b910ffc940ecd177bff2f14849_MITEC_701JF09_lec14_notes.pdf
 file_size: 531957
 file_type: application/pdf
 learning_resource_types:

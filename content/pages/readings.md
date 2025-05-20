@@ -139,15 +139,15 @@ Country team meetings
 
 Agricultural focus groups:
 
-\- Green revolution       
-\- Agriculture and external aid       
+\- Green revolution        
+\- Agriculture and external aid        
 \- Agriculture and human rights
 
 {{< tdclose >}}{{< tdopen >}}
 
 ### The Green Revolution
 
-Rosset, Peter. "[Lessons from the Green Revolution](https://nature.berkeley.edu/srr/Alliance/lessons_from_the_green_revolutio.htm)." *Food First/Institute for Food and Development Policy*. April 8, 2000.
+Rosset, Peter. "[Lessons from the Green Revolution](https://www.iatp.org/sites/default/files/Lessons_from_the_Green_Revolution_Do_We_Need_N.htm)." *Food First/Institute for Food and Development Policy*. April 8, 2000.
 
 ### External Aid
 

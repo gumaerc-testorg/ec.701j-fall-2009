@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Sheet Metal Corn Sheller
   Do-It.
-file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/e4fbbfbb995814c1f0b963a7f4caa38c_MITEC_701JF09_cornshet_doit.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/e4fbbfbb995814c1f0b963a7f4caa38c_MITEC_701JF09_cornshet_doit.pdf
 file_size: 1536387
 file_type: application/pdf
 learning_resource_types: []
