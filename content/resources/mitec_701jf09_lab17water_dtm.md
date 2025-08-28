@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Low-Cost Water Testing
   Apparatus, from 2004 MIT Design that Matters.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/a9afd3233e3361f542e534d250e35b43_MITEC_701JF09_lab17water_dtm.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/a9afd3233e3361f542e534d250e35b43_MITEC_701JF09_lab17water_dtm.pdf
 file_size: 490061
 file_type: application/pdf
 learning_resource_types:

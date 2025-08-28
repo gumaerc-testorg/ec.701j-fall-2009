@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Project team presentation:
   Ghana.'
-file: /courses/ec-701j-d-lab-i-development-fall-2009/aadfd2a301d85958bd35528c04a52a03_MITEC_701JF09_proj_ghana.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/aadfd2a301d85958bd35528c04a52a03_MITEC_701JF09_proj_ghana.pdf
 file_size: 1383898
 file_type: application/pdf
 learning_resource_types:

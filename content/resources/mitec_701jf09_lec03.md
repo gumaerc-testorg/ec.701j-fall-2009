@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding History of Development
   1950-1970 - Colonial Legacy.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/ecf2d29620f6d57de0946f9a71536b05_MITEC_701JF09_lec03.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/ecf2d29620f6d57de0946f9a71536b05_MITEC_701JF09_lec03.pdf
 file_size: 146084
 file_type: application/pdf
 learning_resource_types:

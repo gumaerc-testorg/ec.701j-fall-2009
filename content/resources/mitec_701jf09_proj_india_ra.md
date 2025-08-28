@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Project team presentation:
   India - Ranikhet & Avani.'
-file: /courses/ec-701j-d-lab-i-development-fall-2009/980c9d9c592167781ba2c5224929e3c1_MITEC_701JF09_proj_india_ra.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/980c9d9c592167781ba2c5224929e3c1_MITEC_701JF09_proj_india_ra.pdf
 file_size: 190713
 file_type: application/pdf
 learning_resource_types:
