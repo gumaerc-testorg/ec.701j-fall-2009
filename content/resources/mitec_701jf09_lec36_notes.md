@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Sustainability and Development
   .
-file: /courses/ec-701j-d-lab-i-development-fall-2009/cbbfec78ead9768d340f909b782eb858_MITEC_701JF09_lec36_notes.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/cbbfec78ead9768d340f909b782eb858_MITEC_701JF09_lec36_notes.pdf
 file_size: 483166
 file_type: application/pdf
 learning_resource_types:

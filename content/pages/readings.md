@@ -139,8 +139,8 @@ Country team meetings
 
 Agricultural focus groups:
 
-\- Green revolution        
-\- Agriculture and external aid        
+\- Green revolution         
+\- Agriculture and external aid         
 \- Agriculture and human rights
 
 {{< tdclose >}}{{< tdopen >}}
@@ -259,7 +259,7 @@ Water issues in the developing world
 
 UNICEF and WHO. [*Meeting the MDG Drinking Water and Sanitation Target: A Mid-Term Assessment of Progress*](http://www.who.int/water_sanitation_health/monitoring/jmp2004/en/). 2004.
 
-Film: [*FLOW: For Love of Water*](http://www.flowthefilm.com/) (2008)
+Film: [*FLOW: For Love of Water*](https://www.water-alternatives.org/index.php/cwd/item/201-flow) (2008)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19

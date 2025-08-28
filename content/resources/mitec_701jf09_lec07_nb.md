@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Agriculture .
-file: /courses/ec-701j-d-lab-i-development-fall-2009/4fc1726d7b7575425cf8ba5a61642c7c_MITEC_701JF09_lec07_nb.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/4fc1726d7b7575425cf8ba5a61642c7c_MITEC_701JF09_lec07_nb.pdf
 file_size: 249790
 file_type: application/pdf
 learning_resource_types:
