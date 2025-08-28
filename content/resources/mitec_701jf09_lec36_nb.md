@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Climate Change.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/605771919d71ed49197dba85777b70aa_MITEC_701JF09_lec36_nb.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/605771919d71ed49197dba85777b70aa_MITEC_701JF09_lec36_nb.pdf
 file_size: 514114
 file_type: application/pdf
 learning_resource_types:

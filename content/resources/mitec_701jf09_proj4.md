@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Group assignment 4:
   Village energy assessment.'
-file: /courses/ec-701j-d-lab-i-development-fall-2009/f70e41855535404f320fe0d3aff7f844_MITEC_701JF09_proj4.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/f70e41855535404f320fe0d3aff7f844_MITEC_701JF09_proj4.pdf
 file_size: 206184
 file_type: application/pdf
 learning_resource_types:

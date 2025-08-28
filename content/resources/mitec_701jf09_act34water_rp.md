@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Village Water System.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/b286e5ae85c03ea4d03c0c0978b06159_MITEC_701JF09_act34water_rp.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/b286e5ae85c03ea4d03c0c0978b06159_MITEC_701JF09_act34water_rp.pdf
 file_size: 251091
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Sector paper assignment.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/ed6d46f08cca66b431cf5182bdfe5c49_MITEC_701JF09_hw13.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/ed6d46f08cca66b431cf5182bdfe5c49_MITEC_701JF09_hw13.pdf
 file_size: 87633
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding ICT4D.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/7b7f76b08e41e8fc2951e9f80d8655e2_MITEC_701JF09_lec26_nb.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/7b7f76b08e41e8fc2951e9f80d8655e2_MITEC_701JF09_lec26_nb.pdf
 file_size: 661782
 file_type: application/pdf
 learning_resource_types:

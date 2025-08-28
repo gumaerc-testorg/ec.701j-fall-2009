@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Panel discussion with
   Special Program for Urban and Regional Studies (SPURS) fellows.
-file: /courses/ec-701j-d-lab-i-development-fall-2009/0eb32c78f801d5d1155d2089fa534364_MITEC_701JF09_lec37_nb.pdf
+file: /ol-ocw-studio-app/courses/ec-701j-d-lab-i-development-fall-2009/0eb32c78f801d5d1155d2089fa534364_MITEC_701JF09_lec37_nb.pdf
 file_size: 501897
 file_type: application/pdf
 learning_resource_types:
