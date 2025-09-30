@@ -15,7 +15,7 @@ This page presents additional technology resources from D-Lab, [related videos](
 D-Lab Technology Resources
 --------------------------
 
-_\[Please note: this content was obtained from the_ [_D-Lab Resources_](http://d-lab.mit.edu/resources-publications) _page on December 12, 2011. Users are encouraged to check that page for later updates.\]_
+_\[Please note: this content was obtained from the_ {{% resource_link "2f79ed7a-bd2e-42ec-a2cc-f90ba231709a" "_D-Lab Resources_" %}} _page on December 12, 2011. Users are encouraged to check that page for later updates.\]_
 
 Learn how to build and use D-Lab technologies! Whether you are working with a community that will greatly benefit from adopting these technologies, or you want to learn new building skills, or you want to set up a workshop to disseminate these innovations, here you will find all the materials that you will need:
 
@@ -50,33 +50,33 @@ Here are a few selections from the growing collection of online videos featuring
 
 Talks and seminars at MIT featuring D-Lab instructors (hosted by _MIT World_):
 
-*   [Amy Smith](http://video.mit.edu/search/?q=Amy+Smith&x=0&y=0)
-*   [Bish Sanyal](http://video.mit.edu/search/?q=Bish+Sanyal&x=0&y=0)
+*   {{% resource_link "9dd25409-d80c-4620-be55-f3a27f102a36" "Amy Smith" %}}
+*   {{% resource_link "74281444-00fb-4165-a11a-8b68094c7599" "Bish Sanyal" %}}
 
-WGBH/NPR Forum Network. "[The D-Lab at MIT: Engineering for and by the Developing World](https://d-lab.mit.edu/about)." November 1, 2011.  
+WGBH/NPR Forum Network. "{{% resource_link "c3ebf709-0e09-4f5a-a1f5-cd75ead19b73" "The D-Lab at MIT: Engineering for and by the Developing World" %}}." November 1, 2011.  
 This 56:15 video features interviews and lab demonstrations with Amy Smith and five other D-Lab staff members.
 
 {{< resource c48df3ff-4d51-e7e2-6cb4-bbcbc8481f57 >}}
 
-Amy Smith's charcoal talk at TED2006, Monterey California. (This video is from [TEDtalksDirector](http://www.youtube.com/user/TEDtalksDirector) on YouTube and is not provided under our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334#cc).)
+Amy Smith's charcoal talk at TED2006, Monterey California. (This video is from {{% resource_link "864f6a45-e186-4c20-9e5b-182086491273" "TEDtalksDirector" %}} on YouTube and is not provided under our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334#cc).)
 
 {{< resource 62e2cdb4-f86e-110d-7b0b-9a4c4375e099 >}}
 
-Amy Smith demonstrating how to make charcoal briquettes. (This video is from [Akvofoundation](http://www.youtube.com/user/Akvofoundation) on YouTube and is not provided under our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334#cc).)
+Amy Smith demonstrating how to make charcoal briquettes. (This video is from {{% resource_link "c85c8bca-84a2-4558-a340-39cb6158e4bc" "Akvofoundation" %}} on YouTube and is not provided under our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334#cc).)
 
 {{< resource 1bad134c-7320-e4fa-219d-2f56dde9da8b >}}
 
-Bish Sanyal on challenges of planning; challenges facing cities of the global south; the planning professional; Indian Institute for Human Settlements (IIHS); and challenges within the IIHS curriculum framework. (This video is from [iihsiihsindia](http://www.youtube.com/user/iihsiihsindia) on YouTube and is not provided under our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334#cc).)
+Bish Sanyal on challenges of planning; challenges facing cities of the global south; the planning professional; Indian Institute for Human Settlements (IIHS); and challenges within the IIHS curriculum framework. (This video is from {{% resource_link "e7c0684b-452b-4b3e-b072-0bb853e76431" "iihsiihsindia" %}} on YouTube and is not provided under our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334#cc).)
 
 {{< resource d834284e-9adb-cd60-3675-74b264c9eebf >}}
 
-Victor Grau Serrat on Indigenous Innovations at USAID conference, with demonstration of pedal-powered corn shelling. (This video is from [USaidVideo](http://www.youtube.com/user/iihsiihsindia) on YouTube and is not provided under our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334#cc).)
+Victor Grau Serrat on Indigenous Innovations at USAID conference, with demonstration of pedal-powered corn shelling. (This video is from {{% resource_link "e7c0684b-452b-4b3e-b072-0bb853e76431" "USaidVideo" %}} on YouTube and is not provided under our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334#cc).)
 
 {{< anchor "Stats" >}}Development Indicator Statistics Websites{{< /anchor >}}
 ------------------------------------------------------------------------------
 
-[Gapminder](http://www.gapminder.org/)  
+{{% resource_link "39c03e52-78b1-4eda-b6c0-1757f9c8ce5f" "Gapminder" %}}  
 Displays statistics as animated time-series graphs.
 
-[Worldmapper](http://www.worldmapper.org/)  
+{{% resource_link "3dfdb614-ea7a-4ad2-a9a8-4cc1a510173a" "Worldmapper" %}}  
 Displays statistics in modified world maps where the size of territories equates to the particular statistic of interest.

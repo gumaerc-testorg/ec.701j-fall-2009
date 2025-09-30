@@ -14,11 +14,11 @@ video_metadata:
 ---
 This page presents lecture materials in several forms:
 
-- Illustrated notebooks prepared by [Nathan Cooke](http://chefcooke.com/)
+- Illustrated notebooks prepared by {{% resource_link "f63042b3-1fd1-455d-96f5-a586703e346c" "Nathan Cooke" %}}
 - Selected detailed lecture notes prepared by Jessica Huang
 - Selected lecture slides and supporting material
 
-[Flickr photo collection of various lectures, labs, and activities](http://www.flickr.com/photos/d-lab/sets/72157624747524867/)
+{{% resource_link "a440ce6b-6322-4de4-af5f-28f731acdd1d" "Flickr photo collection of various lectures, labs, and activities" %}}
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -102,7 +102,7 @@ Participatory development
 
 Co-Creation
 
-*Guest speaker*: Mitch Resnick ([MIT Media Lab](http://web.media.mit.edu/~mres/))
+*Guest speaker*: Mitch Resnick ({{% resource_link "ef549df3-1f44-4948-a09c-d36b7d7248fc" "MIT Media Lab" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "156c85d9-63d6-fec5-83e9-2d2c0cc77e99" "PDF" %}})
@@ -123,7 +123,7 @@ Entrepreneurship, government, and development in Africa
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "8a10a0bc-7594-afc5-f1ed-9b644833865d" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Video of this talk: "[Entrepreneurship, Government, and Development in Africa](http://techtv.mit.edu/videos/16579-entrepreneurship-government-and-development-in-africa)." MIT World. September 21, 2009.
+Video of this talk: "{{% resource_link "50c14b6a-28eb-42b1-ab4e-423c38b258b9" "Entrepreneurship, Government, and Development in Africa" %}}." MIT World. September 21, 2009.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -210,7 +210,7 @@ Energy: sun
 
 Energy labs: photovoltaics, LED lighting
 
-*Guest speaker*: Jim Bales ([MIT Edgerton Center](http://web.mit.edu/edgerton/main.html))
+*Guest speaker*: Jim Bales ({{% resource_link "111cbb1b-d10e-4207-bccd-9e4ac18027e0" "MIT Edgerton Center" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "d3c55154-29e1-bbac-c25b-eda75b0e6ba4" "PDF" %}})
@@ -238,7 +238,7 @@ Energy lab: human power production
 
 Energy: Wind and water
 
-*Guest speakers*: Shawn Frayne ([Humdinger Wind Energy](https://www.bloomberg.com/profile/company/0149409D:US)), Peter Haas ([Appropriate Infrastructure Development Group](https://en.wikipedia.org/wiki/Appropriate_Infrastructure_Development_Group))
+*Guest speakers*: Shawn Frayne ({{% resource_link "6005fa24-2ad1-4840-8717-856b16a7b712" "Humdinger Wind Energy" %}}), Peter Haas ({{% resource_link "b992d8ad-8926-4d9b-82db-312d49521975" "Appropriate Infrastructure Development Group" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "32821893-6680-7690-b0c9-2369a2dabc78" "PDF" %}})
@@ -261,7 +261,7 @@ HOMER
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-[HOMER](http://www.homerenergy.com/index.html) download (free registration required)
+{{% resource_link "1a0e7ef2-f771-4dd1-8c13-ec32a2a97775" "HOMER" %}} download (free registration required)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
@@ -293,7 +293,7 @@ Water issues in the developing world
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "4ee8ad95-f52c-0d4b-f5d9-923e525c6144" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Safe Water for 1 Billion People (H2O-1B)](http://web.mit.edu/watsan/)
+{{% resource_link "d91efc12-62b3-4967-8ba8-ff4f6b779ebf" "Safe Water for 1 Billion People (H2O-1B)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
@@ -308,12 +308,12 @@ Harnessing the wind
 ({{% resource_link "435ba0ff-3ff2-3655-25b1-12cc55709261" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-[Video of William Kamkwamba's talk](http://techtv.mit.edu/videos/4282-technology-culture-forum) at MIT Technology & Culture Forum (later that same day). TechTV, October 27, 2009.
+{{% resource_link "a9882778-c87e-45e5-b08b-e3d75a9de8c0" "Video of William Kamkwamba's talk" %}} at MIT Technology & Culture Forum (later that same day). TechTV, October 27, 2009.
 
 Videos from TED:
 
-- "[William Kamkwamba: How I harnessed the wind](http://www.ted.com/talks/lang/en/william_kamkwamba_how_i_harnessed_the_wind.html)." TEDGlobal 2007.
-- "[William Kamkwamba on building a windmill](http://www.ted.com/talks/lang/en/william_kamkwamba_on_building_a_windmill.html)." TEDGlobal 2009.
+- "{{% resource_link "42c1647a-baa5-4eb8-ad03-ef541d1bd257" "William Kamkwamba: How I harnessed the wind" %}}." TEDGlobal 2007.
+- "{{% resource_link "534727b8-fb71-4ac2-aaae-0e43052b82d6" "William Kamkwamba on building a windmill" %}}." TEDGlobal 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -335,7 +335,7 @@ Water lab 2: chemical testing
 
 Institutions of development: WB and IMF
 
-*Guest speaker*: Rachel Glennerster (Executive Director, [Abdul Latif Jameel Poverty Action Lab](http://www.povertyactionlab.org/) (J-PAL))
+*Guest speaker*: Rachel Glennerster (Executive Director, {{% resource_link "ccb14762-7e04-49d9-a6bb-a654dc2d81cb" "Abdul Latif Jameel Poverty Action Lab" %}} (J-PAL))
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "fe49a1e4-2d99-7832-7d55-f465ded975e0" "PDF" %}})
@@ -373,7 +373,7 @@ Slides ({{% resource_link "7dff9aa8-1e3d-47d0-64e6-45ea4238d2c6" "PDF" %}})
 
 Micro-enterprise case study: Grameen Phone
 
-*Guest speaker*: Iqbal Quadir, (Founder & Director, [MIT Legatum Center for Development and Entrepreneurship](http://legatum.mit.edu/))
+*Guest speaker*: Iqbal Quadir, (Founder & Director, {{% resource_link "4f8c7107-137a-40cb-b64d-d4fd26ef179f" "MIT Legatum Center for Development and Entrepreneurship" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "a80e7f49-5a4b-ff54-0863-24848c4f8ebb" "PDF" %}})
@@ -420,7 +420,7 @@ Scratch activity
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "c92d9b0a-f336-9c76-eb6c-d84958120b2c" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-[SCRATCH](http://scratch.mit.edu/) website
+{{% resource_link "4661f92e-162d-4744-bc99-3d8f6753ec8c" "SCRATCH" %}} website
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 28
 {{< tdclose >}}{{< tdopen >}}
@@ -509,7 +509,7 @@ Market approaches to development
 
 Supply chains
 
-*Guest speaker*: Paul Polak ([International Development Enterprises](http://www.ideorg.org/) (IDE))
+*Guest speaker*: Paul Polak ({{% resource_link "d3ef932c-f0ba-43b3-b6ec-79c287cba956" "International Development Enterprises" %}} (IDE))
 
 Role play activity: water resources
 
@@ -521,7 +521,7 @@ Role play activity: water resources
 
 Water role play: teaching note and instructions ({{% resource_link "b286e5ae-85c0-3ea4-d03c-0c0978b06159" "PDF" %}})
 
-[Paul Polak's website](http://www.paulpolak.com/)
+{{% resource_link "58145a4c-3218-475d-93bc-5fa1f0b04c51" "Paul Polak's website" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 35
@@ -529,7 +529,7 @@ Water role play: teaching note and instructions ({{% resource_link "b286e5ae-85c
 
 What works: lessons from J-PAL
 
-*Guest speaker:* Kamilla Gumede ([Abdul Latif Jameel Poverty Action Lab](http://www.povertyactionlab.org/) (J-PAL))
+*Guest speaker:* Kamilla Gumede ({{% resource_link "ccb14762-7e04-49d9-a6bb-a654dc2d81cb" "Abdul Latif Jameel Poverty Action Lab" %}} (J-PAL))
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "3800cfca-c967-972c-89b6-f6ca0792f5e8" "PDF" %}})
@@ -554,7 +554,7 @@ Climate change sustainability
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 37
 {{< tdclose >}}{{< tdopen >}}
-Panel discussion with [Special Program for Urban and Regional Studies (SPURS)](http://web.mit.edu/spurs/www/) fellows
+Panel discussion with {{% resource_link "c839af6a-c46e-4114-9416-4e7f9b091ee2" "Special Program for Urban and Regional Studies (SPURS)" %}} fellows
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "0eb32c78-f801-d5d1-155d-2089fa534364" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}

@@ -228,7 +228,7 @@ Homework 12
 
 ### Drowned Out
 
-If you can't make it to the evening film screening, view DVD of [Drowned Out](http://www.bullfrogfilms.com/catalog/dout.html) on your own time prior to class on Ses #25.
+If you can't make it to the evening film screening, view DVD of {{% resource_link "bcc49781-68eb-47e3-91de-11910739ffd8" "Drowned Out" %}} on your own time prior to class on Ses #25.
 
 
 {{< tdclose >}}
@@ -273,7 +273,7 @@ Homework 15
 
 ### Living with AIDS
 
-If you can't make it to the evening film screening, view DVD of [_Living with AIDS (On the Frontlines of AIDS)_](https://video.alexanderstreet.com/watch/living-with-aids) on your own time prior to class in Ses #30.
+If you can't make it to the evening film screening, view DVD of {{% resource_link "fb7b6224-ba72-4984-a26d-1d34b395effc" "_Living with AIDS (On the Frontlines of AIDS)_" %}} on your own time prior to class in Ses #30.
 
 
 {{< tdclose >}}
