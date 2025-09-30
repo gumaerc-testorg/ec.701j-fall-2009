@@ -23,9 +23,9 @@ Project team meetings: as arranged
 Course Description
 ------------------
 
-D-Lab: Development is part of the [D-Lab series](http://d-lab.mit.edu/) of courses and field trips that prepare students to respond to the basic needs of low-income households and communities in developing nations with technological solutions that are inexpensive, ecologically sustainable and able to be implemented within the local context.
+D-Lab: Development is part of the {{% resource_link "2f3db4b1-84be-4528-ae15-4b3771a6c526" "D-Lab series" %}} of courses and field trips that prepare students to respond to the basic needs of low-income households and communities in developing nations with technological solutions that are inexpensive, ecologically sustainable and able to be implemented within the local context.
 
-This course introduces various notions of development, and explores several technological innovations that enhance the quality of life in these communities. The course also prepares students to focus on specific issues, such as the need for potable water, low-cost agricultural processing equipment, basic sanitation, and affordable energy, specifically in communities where students will travel during IAP \[_MIT's_ [_Independent Activity Period_](http://web.mit.edu/iap/about/index.html)_, a month-long intersession between fall and spring terms_.\] Students will develop working relationships with partnering institutions in developing nations to ensure that the field trips provide both a learning opportunity and an international social network to test the viability of technological solutions jointly crafted by the students and the hosting communities.
+This course introduces various notions of development, and explores several technological innovations that enhance the quality of life in these communities. The course also prepares students to focus on specific issues, such as the need for potable water, low-cost agricultural processing equipment, basic sanitation, and affordable energy, specifically in communities where students will travel during IAP \[_MIT's_ {{% resource_link "8f1fa90c-0468-4947-8a82-d35dbcece9bf" "_Independent Activity Period_" %}}_, a month-long intersession between fall and spring terms_.\] Students will develop working relationships with partnering institutions in developing nations to ensure that the field trips provide both a learning opportunity and an international social network to test the viability of technological solutions jointly crafted by the students and the hosting communities.
 
 D-Lab: Development begins with a historical understanding of why conventional developmental efforts have not universally enhanced the quality of life of low-income households and communities. This is followed by a series of hands-on workshops in which students learn practical approaches towards addressing these issues. These workshops are interspersed with discussions and case studies, led by the course staff and guest speakers who have developed and implemented technological solutions in specific topic areas such as: energy, lighting systems, agricultural technologies, low-cost housing, water, sanitation, micro enterprises, and health. The discussion of case studies also provides students the opportunity to select problem areas for deeper engagement during the IAP field trip. The third part of the course is focused on the preparation for the field trip by sensitizing students to the realities of fieldwork in unfamiliar settings, and discussing how to build enduring institutional relationships with communities for future collaboration. Students will work in small groups studying the history, culture, language, economy and politics of the communities they plan to visit during IAP to understand the context within which their particular technological innovations must be embedded.
 
@@ -33,11 +33,11 @@ Graduate students taking the course for graduate credit will select a technology
 
 ### Student Views on D-Lab, from MIT Admissions Blogs
 
-Paul B. '11. "[Introduction to D-Lab](https://mitadmissions.org/blogs/entry/dlab/)." October 2008.
+Paul B. '11. "{{% resource_link "c7501407-9d8a-498b-af54-d3e75c1b5989" "Introduction to D-Lab" %}}." October 2008.
 
-Office of Experiental Learning. "[Greetings from Honduras: D-Lab students in the field](http://mitadmissions.org/blogs/entry/greetings-from-honduras-d-lab-students-in-the-field)." January 18, 2012.
+Office of Experiental Learning. "{{% resource_link "d4c85bed-6be0-455e-81dd-8665f2cda916" "Greetings from Honduras: D-Lab students in the field" %}}." January 18, 2012.
 
-Office of Experiental Learning. "[Greetings from Cambodia: D-Lab students in the field](http://mitadmissions.org/blogs/entry/greetings-from-cambodia-d-lab-students-in-the-field)." January 25, 2012.
+Office of Experiental Learning. "{{% resource_link "987c157a-8a7d-4035-afac-8f0e9c1ed897" "Greetings from Cambodia: D-Lab students in the field" %}}." January 25, 2012.
 
 Course Goals
 ------------
@@ -568,7 +568,7 @@ Modeling energy systems
 
 Village energy assessment
 
-[HOMER](http://homerenergy.com/) (Bring laptops to class)
+{{% resource_link "5be04f4f-1a13-4e2d-b518-b8cedba64445" "HOMER" %}} (Bring laptops to class)
 
 
 {{< tdclose >}}
@@ -866,7 +866,7 @@ _Guest Speaker_: Mitch Resnick
 {{< tdopen >}}
 
 
-[SCRATCH](http://scratch.mit.edu/) (Bring laptops to class)
+{{% resource_link "4661f92e-162d-4744-bc99-3d8f6753ec8c" "SCRATCH" %}} (Bring laptops to class)
 
 
 {{< tdclose >}}
@@ -1117,7 +1117,7 @@ _Guest Speaker_: Ben Linder
 37
 {{< tdclose >}}
 {{< tdopen >}}
-Panel discussion with [Special Program for Urban and Regional Studies (SPURS)](http://web.mit.edu/spurs/www/) fellows
+Panel discussion with {{% resource_link "c839af6a-c46e-4114-9416-4e7f9b091ee2" "Special Program for Urban and Regional Studies (SPURS)" %}} fellows
 {{< tdclose >}}
 {{< tdopen >}}
  
