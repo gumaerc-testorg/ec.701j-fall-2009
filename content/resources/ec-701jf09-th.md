@@ -9,7 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: A proud student shows off the flashlight he just made in a SEED Education
     workshop run by the D-Lab Kolkata team during their IAP trip. (Photo courtesy
-    of [Brooke A. Jarrett](http://www.flickr.com/photos/d-lab/4316365877) on Flickr.)
+    of {{% resource_link "a9fa9a6f-2760-4614-85b8-c1dc79c35f4b" "Brooke A. Jarrett"
+    %}} on Flickr.)
   credit: Photo courtesy of Brooke A. Jarrett on Flickr.
   image-alt: A young boy pointing a shining flashlight at the camera.
 learning_resource_types: []

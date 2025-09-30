@@ -268,7 +268,7 @@ China
 
 Design workshop
 
-[Photos](http://www.flickr.com/photos/d-lab/sets/72157623185979269/)
+{{% resource_link "17acd4f9-daf4-4513-a600-40626272ef75" "Photos" %}}
 
 
 {{< tdclose >}}
@@ -286,7 +286,7 @@ Ecuador
 
 Drip irrigation, rainwater catchment, hydroponics, artisan project, IIH MEDIK, Scratch
 
-[Photos](http://www.flickr.com/photos/d-lab/collections/72157623306994040/)
+{{% resource_link "d4bb4a92-16e1-4c9b-b821-97067c37dfd9" "Photos" %}}
 
 
 {{< tdclose >}}
@@ -304,7 +304,7 @@ Ghana
 
 Shea nut oil press, clay collection, well drilling
 
-[Photos](http://www.flickr.com/photos/d-lab/collections/72157623182404311/)
+{{% resource_link "444f65ef-dc21-4f4b-b524-e46ab5792d77" "Photos" %}}
 
 
 {{< tdclose >}}
@@ -322,7 +322,7 @@ India: Kolkata
 
 Pedal-powered cell phone charger, charcoal from water hyacinth, drip irrigation, NGO evaluations, rickshaw bank, SEED education workshop, water testing
 
-[Photos](http://www.flickr.com/photos/d-lab/collections/72157623197756941/)
+{{% resource_link "b3992bb6-e7bd-46a0-ad21-2fcf1363b185" "Photos" %}}
 
 
 {{< tdclose >}}
@@ -340,7 +340,7 @@ India: Ranikhet & Avani
 
 Charcoal and stove, sanitation and hygiene, first aid lesson, solar dryer, solar latern
 
-[Photos](http://www.flickr.com/photos/d-lab/collections/72157623182407189/)
+{{% resource_link "214a9a9b-d431-4d80-a499-dca399b345fd" "Photos" %}}
 
 
 {{< tdclose >}}
@@ -358,7 +358,7 @@ Peru
 
 Cookstoves, latrines
 
-[Photos](http://www.flickr.com/photos/d-lab/collections/72157623182423221/)
+{{% resource_link "47409499-f600-4dc8-ac29-c1753f69066a" "Photos" %}}
 
 
 {{< tdclose >}}
@@ -376,7 +376,7 @@ Rwanda
 
 Charcoal
 
-[Photos](http://www.flickr.com/photos/d-lab/sets/72157623308373144/with/4313678109/)
+{{% resource_link "33ac9567-4318-4fbe-bfbd-2c060b1bc019" "Photos" %}}
 
 
 {{< tdclose >}}
@@ -394,7 +394,7 @@ Tanzania
 
 Water harvesting, secondary school workshop
 
-[Photos](http://www.flickr.com/photos/d-lab/collections/72157623196719877/)
+{{% resource_link "842757ae-c128-4a77-9dfc-6846e16573ec" "Photos" %}}
 
 
 {{< tdclose >}}
@@ -412,7 +412,7 @@ Zambia
 
 Corn shelling, charcoal making, Disacare wheelchair workshop, IDE drip irrigation, Peace Corps workshop
 
-[Photos](http://www.flickr.com/photos/d-lab/sets/72157623231313441/)
+{{% resource_link "58c2a02d-1969-4db3-97d6-b4149a9619e9" "Photos" %}}
 
 
 {{< tdclose >}}
@@ -421,5 +421,4 @@ Corn shelling, charcoal making, Disacare wheelchair workshop, IDE drip irrigatio
 
 {{< tableclose >}}
 
-[  
-](http://www.flickr.com/photos/d-lab/archives/date-taken/2009/01/calendar/)
+{{% resource_link "78d85dd3-db5a-4afc-8d23-f20f899a293f" "   " %}}
